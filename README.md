@@ -4,7 +4,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.x-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-teal)
-![Internship](https://img.shields.io/badge/Thiranex-Internship-purple)
 
 A machine learning project that predicts whether a telecom customer will **churn (leave) or stay**, built as part of the **Thiranex Data Science Internship**.  
 Three classification models are trained, evaluated, and compared — Logistic Regression, Decision Tree, and Random Forest.
@@ -123,12 +122,11 @@ python churn_model.py
 
 ## 📜 License
 
-This project is for educational purposes as part of the **Thiranex Data Science Internship**.
+This project is for educational purposes.
 
 ---
 
 ## 🙋 Author
 
 **Your Name**  
-Thiranex Data Science Intern  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/prithivirathan) • [LinkedIn](https://www.linkedin.com/in/prithivirathan22/)
